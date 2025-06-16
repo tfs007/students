@@ -23,3 +23,49 @@ h1 { color: grey;
 }
 ```
 
+# HTML
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Basics</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      color: purple;
+    }
+
+    p {
+      color: #555;
+    }
+
+    .highlight {
+      background: #f0f0ff;
+      padding: 10px;
+    }
+
+    #note {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hello CSS!</h1>
+
+  <p>This is a normal paragraph.</p>
+
+  <p class="highlight">This paragraph uses a class.</p>
+
+  <p id="note">This one uses an ID.</p>
+
+</body>
+</html>
+
+```
