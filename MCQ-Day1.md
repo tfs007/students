@@ -1,12 +1,8 @@
 1. What is WordPress primarily used for?
-   
-A. Building websites and blogs
-
- B. Designing graphics
-
- C. Managing databases
- 
- D. Hosting files
+   A. Building websites and blogs
+   B. Designing graphics
+   C. Managing databases
+   D. Hosting files
 
 1. What is the default content editor in modern WordPress called?
 A. Elementor
