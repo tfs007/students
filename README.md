@@ -10,3 +10,16 @@
 4. wp-4 **206.189.146.247:8000** Mohd Nurdin (1)
 5. wp-talat **157.245.195.66:8000** Syed Talat Fakhri (0)
 
+## CSS
+
+> Appearance > Customize > Additional CSS
+
+NOTE: Please study `Color Theory` and `Color Wheel` 
+
+```
+h1 { color: grey;
+	text-transform: uppercase;
+
+}
+```
+
