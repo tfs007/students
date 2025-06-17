@@ -1,8 +1,8 @@
 # Security and Backup Awareness
 ## Task:
-1. Install a backup plugin (e.g., UpdraftPlus).
+1. Install a backup plugin (e.g., **UpdraftPlus**).
 2. Set up a scheduled backup (you do not have to execute it now).
-3. Install a basic security plugin and review its dashboard (e.g., Wordfence).
+3. Install a basic security plugin and review its dashboard (e.g., **Wordfence**).
 
 
 ### Checklist:
