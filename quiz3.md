@@ -94,7 +94,7 @@
 
 ---
 
-### ✅ **Answer Key**
+### **Answer Key**
 
 1. B
 2. C
