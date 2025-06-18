@@ -3,7 +3,7 @@
 
 ##  **Final Project**
 
-**Goal:** Build a stylish, content-ready **personal brand website** using **WordPress**, **Astra**, **Elementor**, and **WooCommerce**. The site will include a homepage, blog, contact page, mini store, SEO basics, and a structured menu with dropdowns (submenus)—including category-specific blog filtering like *Blog → Travel*.
+**Goal:** Build a stylish, content-ready **personal brand website** using **WordPress**, **Astra**, **Elementor**, and **WooCommerce**. The site will include a homepage, blog, contact page, mini store, SEO basics, and a structured menu with dropdowns (submenus),including category-specific blog filtering like *Blog → Travel*.
 
 ---
 
